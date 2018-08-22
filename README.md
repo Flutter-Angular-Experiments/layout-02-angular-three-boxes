@@ -1,2 +1,7 @@
-# layout-02-angular-three-boxes
-Display three boxes spread evenly across the screen.
+# layout_02_angular_three_boxes
+
+A web app that uses [AngularDart](https://webdev.dartlang.org/angular) and
+[AngularDart Components](https://webdev.dartlang.org/components).
+
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
